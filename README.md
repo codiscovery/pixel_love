@@ -1,6 +1,6 @@
 # Pixel love 2
 
-!(pixel love)[./media/header.png]
+![pixel love](./media/header.png)
 
 ## Programmes requis
 
